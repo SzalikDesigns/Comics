@@ -9,20 +9,20 @@ Built and tested on [AmberELEC](https://AmberELEC.org).
 
 ---
 
-### Thanks and Credits
+# Thanks and Credits
 
-Theme is invented by **TMNTturtlguy**
-Controller.svg from "carbon" Eric Hettervik (Rookervik) RYOKAI.DEVIANTART.COM
-Theme Concept based on images posted by: lipebello on Retropie.org.uk/forum
+* Theme is invented by **TMNTturtlguy**
+* Controller.svg from "carbon" Eric Hettervik (Rookervik) RYOKAI.DEVIANTART.COM
+* Theme Concept based on images posted by: lipebello on Retropie.org.uk/forum
  
-**Special credits:**
+### Special credits:
 - modmaster - for helping create additional system backgrounds
 - pjft - for all the support throughout the build, testing, and work on the pixel effect
 - Nismo - for all of the testing, input, and suggested improvements
 - Ruckage - for updating font characters to support multiple languages.
 ---
 
-### LOGO NOTICE
+# LOGO NOTICE
 The used logos and trademarks are copyright of their respective owners.
 
 ---
