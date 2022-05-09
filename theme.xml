@@ -2,8 +2,14 @@
     <formatVersion>3</formatVersion>
     <include>./comic_book.xml</include>
 
-	<view name="system">
+	<view name="screen">
+		<text name="clock">
+			<origin>1 1</origin>
+			<size>0.20 0</size>
+		</text>
+	</view>
 
+	<view name="system">
 		<image name="SystemBackground" extra="true">
 			<tile>false</tile>
 			<pos>0 0</pos>
